@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<pedido xmlns:cli="http://ciclo.iesnervion.es/namespaces/cliente"
+        xmlns:prod="http://ciclo.iesnervion.es/namespaces/producto">
+<cli:cliente>
+    <cli:numero_ID>1232654</cli:numero_ID>
+    <cli:nombre>Fulanito de Tal</cli:nombre>
+    <cli:telefono>99999999</cli:telefono>
+</cli:cliente>
+    <item>
+      <prod:numero_ID>6523213</prod:numero_ID>
+      <prod:articulo>Caja de herramientas</prod:articulo>
+      <prod:precio>187,90</prod:precio>
+	  <cantidad>2</cantidad>
+    </item>
+	<item>
+      <prod:numero_ID>574410</prod:numero_ID>
+      <prod:articulo>destornillador</prod:articulo>
+      <prod:precio>7,50</prod:precio>
+	  <cantidad>5</cantidad>
+    </item>
+</pedido>

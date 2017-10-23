@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<evento>
+	<titulo>Clase base de datos</titulo>
+	<lugar>IES Nervion</lugar>
+	<visibilidad>Publico</visibilidad>	
+	<tiempo>
+		<diaIn>20/09/2017</diaIn>
+		<diaFin>20/09/2017</diaFin>
+		<horaIn>8:15</horaIn>
+		<horaFin>10:15</horaFin>
+	</tiempo>
+	<notificaciones>
+		<tRecordatorio>10</tRecordatorio>
+		<turnedOn>1</turnedOn>
+	</notificaciones>
+	<notas>
+		<comentario>Llevar cuaderno</comentario>
+		<comentario>Llevar pen drive</comentario>
+		<comentario>Llevar bolígrafo</comentario>
+	</notas>
+	<personalizacion>
+		<color>
+			<colLetra>#FF0000</colLetra>
+			<colFondo>#0000FF</colFondo>
+		</color>
+		<tonoNot>31</tonoNot>
+	</personalizacion>
+</evento>

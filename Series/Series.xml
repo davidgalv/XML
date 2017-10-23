@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+	<serie numero="1">
+		<nombre>Juego de Tronos</nombre>
+		<creador>David Benioff</creador>
+		<duracion_capitulos>50 minutos</duracion_capitulos>
+		<protagonista numero="1">Jon Snow</protagonista>
+		<protagonista numero="2">Cersei Lannister</protagonista>"
+		<protagonista numero="3">Daenerys Targaryen</protagonista>
+	</serie>
+	<serie numero="2">
+		<nombre>The Walking Dead</nombre>
+		<creador>Frank Darabont</creador>
+		<duracion_capitulos> 40 minutos</duracion_capitulos>
+		<protagonista numero="1">Rick Grimes</protagonista>
+		<protagonista numero="2">Daryl Dixon</protagonista>
+		<protagonista numero="3">Negan</protagonista>
+	</serie>
+	<serie numero="3">
+		<nombre>Breaking Bad</nombre>
+		<creador>Vince Gilligan</creador>
+		<duracion_capitulos>50 minutos</duracion_capitulos>
+		<protagonista numero="1">Walter White</protagonista>
+		<protagonista numero="2">Jesse Pinkman</protagonista>
+		<protagonista numero="3">Saul Goodman</protagonista>
+		
+	</serie>
+</series>

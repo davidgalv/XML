@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<creadores>
+	<creador numero="1">
+		<nombre>David Benioff</nombre>
+		<fecha_nacimiento>25/09/1970</fecha_nacimiento>
+		<nacionalidad>Estadounidense</nacionalidad>
+	</creador>
+	<creador numero="2">
+		<nombre>Frank Darabont</nombre>
+		<fecha_nacimiento>28/01/1959</fecha_nacimiento>
+		<nacionalidad>Estadounidense</nacionalidad>
+	</creador>
+	<creador numero="3">
+		<nombre>Vince Gilligan</nombre>
+		<fecha_nacimiento>10/02/1967</fecha_nacimiento>
+		<nacionalidad>Estadounidense</nacionalidad>
+	</creador>
+</creadores>

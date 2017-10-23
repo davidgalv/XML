@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conjunto xmlns:bic="http://ciclo.iesnervion.es/pluginfile.php/1747/mod_page/content/5/Bichos.xml" xmlns:gra="http://ciclo.iesnervion.es/pluginfile.php/1747/mod_page/content/5/Granjas.xml">
+	<explotaciones>
+		<gra:granja id="15" nombre="La era">
+			<gra:propietario>El tito</gra:propietario>
+			<gra:regadio/>
+			<gra:superficie unidad="fanegas">
+				<gra:campo>5</gra:campo>
+				<gra:corrales>0,7</gra:corrales>
+			</gra:superficie>
+			<bic:animales>
+				<bic:animal nombre="vaca">
+					<bic:tipo>bovino</bic:tipo>
+					<bic:alimentacion>pienso</bic:alimentacion>
+					<bic:alimentacion>pasto</bic:alimentacion>
+					<bic:produccion>
+						<bic:producto>leche</bic:producto>
+						<bic:producto>carne</bic:producto>
+					</bic:produccion>
+				</bic:animal>
+				<bic:animal nombre="avestruz">
+					<bic:tipo>ave</bic:tipo>
+					<bic:alimentacion>pienso</bic:alimentacion>
+					<bic:alimentacion>bichos</bic:alimentacion>
+					<bic:produccion>
+						<bic:producto>plumas</bic:producto>
+						<bic:producto>huevos</bic:producto>
+						<bic:producto>carne</bic:producto>
+					</bic:produccion>
+				</bic:animal>
+				<bic:animal nombre="cerdo">
+					<bic:tipo>porcino</bic:tipo>
+					<bic:alimentacion>pienso</bic:alimentacion>
+					<bic:alimentacion>varios</bic:alimentacion>
+					<bic:produccion>
+						<bic:producto>carne</bic:producto>
+					</bic:produccion>
+				</bic:animal>
+
+
+			</bic:animales>
+		</gra:granja>
+	</explotaciones>
+</conjunto>

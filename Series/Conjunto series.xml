@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conjunto xmlns:ser="www.series.com" xmlns:cre="www.creadores.com">
+	<ser:series>
+		<ser:serie numero="0">
+			<ser:nombre>Juego de Tronos</ser:nombre>
+			<ser:autor>David Benioff
+				<cre:creador numero="1">
+					<cre:nombre>David Benioff</cre:nombre>
+					<cre:fecha_nacimiento>25/09/1970</cre:fecha_nacimiento>
+					<cre:nacionalidad>Estadounidense</cre:nacionalidad>
+				</cre:creador>
+			</ser:autor>
+			<ser:duracion_capitulos>50 minutos</ser:duracion_capitulos>
+			<ser:protagonista numero="1">Jon Snow</ser:protagonista>
+			<ser:protagonista numero="2">Cersei Lannister</ser:protagonista>"
+			<ser:protagonista numero="3">Daenerys Targaryen</ser:protagonista>
+			<num_capitulos>67</num_capitulos>
+			<idiomas>Español, Inglés</idiomas>
+		</ser:serie>
+		<ser:serie numero="1">
+			<ser:nombre>The Walking Dead</ser:nombre>
+			<ser:autor>Frank Darabont
+				<cre:creador numero="2">
+					<cre:nombre>Frank Darabont</cre:nombre>
+					<cre:fecha_nacimiento>28/01/1959</cre:fecha_nacimiento>
+					<cre:nacionalidad>Estadounidense</cre:nacionalidad>
+				</cre:creador>
+			</ser:autor>
+			<ser:duracion_capitulos> 40 minutos</ser:duracion_capitulos>
+			<ser:protagonista numero="1">Rick Grimes</ser:protagonista>
+			<ser:protagonista numero="2">Daryl Dixon</ser:protagonista>
+			<ser:protagonista numero="3">Negan</ser:protagonista>
+			<num_capitulos>99</num_capitulos>
+			<idiomas>Español, Inglés</idiomas>
+		</ser:serie>
+		<ser:serie numero="2">
+			<ser:nombre>Breaking Bad</ser:nombre>
+			<ser:autor>Vince Gilligan
+				<cre:creador numero="3">
+					<cre:nombre>Vince Gilligan</cre:nombre>
+					<cre:fecha_nacimiento>10/02/1967</cre:fecha_nacimiento>
+					<cre:nacionalidad>Estadounidense</cre:nacionalidad>
+				</cre:creador>
+			</ser:autor>
+			<ser:duracion_capitulos>50 minutos</ser:duracion_capitulos>
+			<ser:protagonista numero="1">Walter White</ser:protagonista>
+			<ser:protagonista numero="2">Jesse Pinkman</ser:protagonista>
+			<ser:protagonista numero="3">Saul Goodman</ser:protagonista>
+			<num_capitulos>62</num_capitulos>
+			<idiomas>Español, Inglés</idiomas>
+		</ser:serie>
+	</ser:series>
+</conjunto>
